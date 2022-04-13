@@ -2,4 +2,4 @@
 
 Fetching coordinates from a file and manipulating with SpringBoot and Postgresql.
 
-![Software mapping](Coordinates/Coordinates.jpg)
+![Software mapping](https://github.com/CoordinatesMapJava/Coordinates/blob/main/Coordinates.jpg)
